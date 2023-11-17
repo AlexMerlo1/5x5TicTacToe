@@ -1,0 +1,19 @@
+#startButton {
+  -fx-background-color: #4CAF50;
+  -fx-text-fill: white;
+  -fx-font-size: 16px;
+}
+
+#startButton:hover {
+  -fx-background-color: #45a049;
+}
+
+#welcomeText {
+  -fx-text-fill: white;
+  -fx-font-size: 50px;
+}
+#gameText {
+  -fx-text-fill: black;
+  -fx-font-size: 25px;
+  -fx-font-weight: bold;
+}
